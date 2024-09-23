@@ -1,2 +1,2 @@
-# Curso-nivel-basico-C-
+# Curso-nivel-basico-C#
 Curso C# Basico
