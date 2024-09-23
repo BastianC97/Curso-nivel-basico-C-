@@ -1,0 +1,7 @@
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\MetodoEJ3\obj\Debug\MetodoEJ3.csproj.AssemblyReference.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\MetodoEJ3\obj\Debug\MetodoEJ3.csproj.CoreCompileInputs.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\MetodoEJ3\bin\Debug\MetodoEJ3.exe.config
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\MetodoEJ3\bin\Debug\MetodoEJ3.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\MetodoEJ3\bin\Debug\MetodoEJ3.pdb
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\MetodoEJ3\obj\Debug\MetodoEJ3.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\MetodoEJ3\obj\Debug\MetodoEJ3.pdb

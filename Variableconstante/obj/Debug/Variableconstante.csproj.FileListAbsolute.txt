@@ -1,0 +1,7 @@
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Variableconstante\bin\Debug\Variableconstante.exe.config
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Variableconstante\bin\Debug\Variableconstante.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Variableconstante\bin\Debug\Variableconstante.pdb
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Variableconstante\obj\Debug\Variableconstante.csproj.AssemblyReference.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Variableconstante\obj\Debug\Variableconstante.csproj.CoreCompileInputs.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Variableconstante\obj\Debug\Variableconstante.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Variableconstante\obj\Debug\Variableconstante.pdb

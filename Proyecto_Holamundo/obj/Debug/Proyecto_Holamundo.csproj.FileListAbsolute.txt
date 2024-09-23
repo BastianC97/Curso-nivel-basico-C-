@@ -1,0 +1,7 @@
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Proyecto_Holamundo\bin\Debug\Proyecto_Holamundo.exe.config
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Proyecto_Holamundo\bin\Debug\Proyecto_Holamundo.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Proyecto_Holamundo\bin\Debug\Proyecto_Holamundo.pdb
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Proyecto_Holamundo\obj\Debug\Proyecto_Holamundo.csproj.AssemblyReference.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Proyecto_Holamundo\obj\Debug\Proyecto_Holamundo.csproj.CoreCompileInputs.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Proyecto_Holamundo\obj\Debug\Proyecto_Holamundo.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Proyecto_Holamundo\obj\Debug\Proyecto_Holamundo.pdb

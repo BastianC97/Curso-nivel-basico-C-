@@ -1,0 +1,7 @@
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Operadoreslogicos\bin\Debug\Operadoreslogicos.exe.config
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Operadoreslogicos\bin\Debug\Operadoreslogicos.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Operadoreslogicos\bin\Debug\Operadoreslogicos.pdb
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Operadoreslogicos\obj\Debug\Operadoreslogicos.csproj.AssemblyReference.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Operadoreslogicos\obj\Debug\Operadoreslogicos.csproj.CoreCompileInputs.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Operadoreslogicos\obj\Debug\Operadoreslogicos.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Operadoreslogicos\obj\Debug\Operadoreslogicos.pdb

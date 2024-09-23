@@ -1,0 +1,7 @@
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Operadoresrelacionales\bin\Debug\Operadoresrelacionales.exe.config
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Operadoresrelacionales\bin\Debug\Operadoresrelacionales.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Operadoresrelacionales\bin\Debug\Operadoresrelacionales.pdb
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Operadoresrelacionales\obj\Debug\Operadoresrelacionales.csproj.AssemblyReference.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Operadoresrelacionales\obj\Debug\Operadoresrelacionales.csproj.CoreCompileInputs.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Operadoresrelacionales\obj\Debug\Operadoresrelacionales.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Operadoresrelacionales\obj\Debug\Operadoresrelacionales.pdb

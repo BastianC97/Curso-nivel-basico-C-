@@ -1,0 +1,7 @@
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Metodos\bin\Debug\Metodos.exe.config
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Metodos\bin\Debug\Metodos.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Metodos\bin\Debug\Metodos.pdb
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Metodos\obj\Debug\Metodos.csproj.AssemblyReference.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Metodos\obj\Debug\Metodos.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Metodos\obj\Debug\Metodos.pdb
