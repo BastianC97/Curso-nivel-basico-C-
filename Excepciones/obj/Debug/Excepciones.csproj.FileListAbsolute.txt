@@ -1,0 +1,7 @@
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Excepciones\bin\Debug\Excepciones.exe.config
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Excepciones\bin\Debug\Excepciones.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Excepciones\bin\Debug\Excepciones.pdb
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Excepciones\obj\Debug\Excepciones.csproj.AssemblyReference.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Excepciones\obj\Debug\Excepciones.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Excepciones\obj\Debug\Excepciones.pdb

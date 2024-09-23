@@ -1,0 +1,7 @@
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Datosprimitivos\bin\Debug\Datosprimitivos.exe.config
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Datosprimitivos\bin\Debug\Datosprimitivos.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Datosprimitivos\bin\Debug\Datosprimitivos.pdb
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Datosprimitivos\obj\Debug\Datosprimitivos.csproj.AssemblyReference.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Datosprimitivos\obj\Debug\Datosprimitivos.csproj.CoreCompileInputs.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Datosprimitivos\obj\Debug\Datosprimitivos.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Datosprimitivos\obj\Debug\Datosprimitivos.pdb

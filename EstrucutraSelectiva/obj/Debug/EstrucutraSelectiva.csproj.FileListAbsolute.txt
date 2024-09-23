@@ -1,0 +1,7 @@
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\EstrucutraSelectiva\bin\Debug\EstrucutraSelectiva.exe.config
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\EstrucutraSelectiva\bin\Debug\EstrucutraSelectiva.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\EstrucutraSelectiva\bin\Debug\EstrucutraSelectiva.pdb
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\EstrucutraSelectiva\obj\Debug\EstrucutraSelectiva.csproj.AssemblyReference.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\EstrucutraSelectiva\obj\Debug\EstrucutraSelectiva.csproj.CoreCompileInputs.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\EstrucutraSelectiva\obj\Debug\EstrucutraSelectiva.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\EstrucutraSelectiva\obj\Debug\EstrucutraSelectiva.pdb

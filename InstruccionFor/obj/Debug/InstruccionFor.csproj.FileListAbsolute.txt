@@ -1,0 +1,7 @@
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\InstruccionFor\obj\Debug\InstruccionFor.csproj.AssemblyReference.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\InstruccionFor\obj\Debug\InstruccionFor.csproj.CoreCompileInputs.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\InstruccionFor\bin\Debug\InstruccionFor.exe.config
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\InstruccionFor\bin\Debug\InstruccionFor.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\InstruccionFor\bin\Debug\InstruccionFor.pdb
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\InstruccionFor\obj\Debug\InstruccionFor.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\InstruccionFor\obj\Debug\InstruccionFor.pdb

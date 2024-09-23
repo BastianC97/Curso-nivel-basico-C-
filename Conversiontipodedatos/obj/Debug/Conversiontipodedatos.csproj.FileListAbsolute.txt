@@ -1,0 +1,7 @@
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Conversiontipodedatos\bin\Debug\Conversiontipodedatos.exe.config
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Conversiontipodedatos\bin\Debug\Conversiontipodedatos.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Conversiontipodedatos\bin\Debug\Conversiontipodedatos.pdb
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Conversiontipodedatos\obj\Debug\Conversiontipodedatos.csproj.AssemblyReference.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Conversiontipodedatos\obj\Debug\Conversiontipodedatos.csproj.CoreCompileInputs.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Conversiontipodedatos\obj\Debug\Conversiontipodedatos.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\Conversiontipodedatos\obj\Debug\Conversiontipodedatos.pdb

@@ -1,0 +1,7 @@
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\EstructuraCiclicaDoWhile\bin\Debug\EstructuraCiclicaDoWhile.exe.config
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\EstructuraCiclicaDoWhile\bin\Debug\EstructuraCiclicaDoWhile.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\EstructuraCiclicaDoWhile\bin\Debug\EstructuraCiclicaDoWhile.pdb
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\EstructuraCiclicaDoWhile\obj\Debug\EstructuraCiclicaDoWhile.csproj.AssemblyReference.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\EstructuraCiclicaDoWhile\obj\Debug\EstructuraCiclicaDoWhile.csproj.CoreCompileInputs.cache
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\EstructuraCiclicaDoWhile\obj\Debug\EstructuraCiclicaDoWhile.exe
+C:\C#_Nivelbasico\Solucion_C#_Nivelbasico\EstructuraCiclicaDoWhile\obj\Debug\EstructuraCiclicaDoWhile.pdb
